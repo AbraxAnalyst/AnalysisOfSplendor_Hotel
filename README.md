@@ -104,8 +104,14 @@ This analysis serves as a robust foundation for strategic decision-making, empha
 
 
 # Dashboard
+[Interact with the dashboard](https://app.powerbi.com/links/8THF0SltMq?ctid=27777323-512a-4384-a252-e0f0e9033f1f&pbi_source=linkShare)
+
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/AbraxAnalyst/AnalysisOfSplendor_Hotel/blob/main/pics/dashboard1.PNG"/>
+  <img src="https://github.com/AbraxAnalyst/AnalysisOfSplendor_Hotel/blob/main/pics/dashboard2.PNG"/>
+  <img src="https://github.com/AbraxAnalyst/AnalysisOfSplendor_Hotel/blob/main/pics/dashboard3.PNG"/>
+  <img src="https://github.com/AbraxAnalyst/AnalysisOfSplendor_Hotel/blob/main/pics/dashboard4.PNG"/>
+  <img src="https://github.com/AbraxAnalyst/AnalysisOfSplendor_Hotel/blob/main/pics/dashboard5.PNG"/>
 </p>
 
 
