@@ -1,4 +1,6 @@
-# AnalysisOfSplendor_Hotel
+# Analysing Booking Data for Splendor Hotel Groups
+![pics](https://th.bing.com/th/id/R.f0f921b3cb56a111c5ff3c5a69140cde?rik=hHWeC9LTlSgcJQ&pid=ImgRaw&r=0)
+
 The analysis of Splendor Hotel Groups' booking data uncovers pivotal insights that hold the potential to significantly enhance operational efficiency and elevate customer satisfaction. Recommendations are proposed to refine market strategies and optimize pricing models, thereby fostering overall performance.
 Introduction 
 In this comprehensive report, we delve into the intricacies of Splendor Hotel Groups' booking data, aiming to reveal trends, understand customer behaviour, and provide nuanced recommendations to drive informed decision-making
